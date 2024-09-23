@@ -1,0 +1,5 @@
+﻿  theory_of_probabilities.cpp
+C:\Users\Admin\source\repos\theory_of_probabilities\theory_of_probabilities.cpp(30,12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\theory_of_probabilities\theory_of_probabilities.cpp(45,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\theory_of_probabilities\theory_of_probabilities.cpp(48,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  theory_of_probabilities.vcxproj -> C:\Users\Admin\source\repos\theory_of_probabilities\x64\Debug\theory_of_probabilities.exe
