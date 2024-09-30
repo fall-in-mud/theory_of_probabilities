@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\theory_of_probabilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\theory_of_probabilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|solutionrelative:theory_of_probabilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\ni.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\ni.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|solutionrelative:ni.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\xi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\xi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{68D0210F-2487-4E7B-A660-4EDFE60B047A}|theory_of_probabilities.vcxproj|solutionrelative:xi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ni.txt",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\ni.txt",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\ni.txt",
               "RelativeDocumentMoniker": "ni.txt",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\ni.txt",
+              "ToolTip": "C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\ni.txt",
               "RelativeToolTip": "ni.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-23T06:55:29.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T06:55:29.048Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "xi.txt",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\xi.txt",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\xi.txt",
               "RelativeDocumentMoniker": "xi.txt",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\xi.txt",
+              "ToolTip": "C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\xi.txt",
               "RelativeToolTip": "xi.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-23T06:54:56.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T06:54:56.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "theory_of_probabilities.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\theory_of_probabilities.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\theory_of_probabilities.cpp",
               "RelativeDocumentMoniker": "theory_of_probabilities.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\theory_of_probabilities\\theory_of_probabilities.cpp",
+              "ToolTip": "C:\\Users\\\u0413\u0435\u043E\u0440\u0433\u0438\u0439\\source\\repos\\terver\\theory_of_probabilities\\theory_of_probabilities.cpp",
               "RelativeToolTip": "theory_of_probabilities.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAApwDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-23T06:53:01.159Z",
               "EditorCaption": ""
